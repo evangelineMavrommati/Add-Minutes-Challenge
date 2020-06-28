@@ -1,3 +1,5 @@
 # Add-Minutes-Challenge
 
-- minutes will roll over days
+`bundle install`
+
+Minutes will roll over days
